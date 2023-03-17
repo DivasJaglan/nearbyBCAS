@@ -1,6 +1,17 @@
 # intro:
 Welcome to our area guidance website for college students! Our goal is to provide you with valuable information and resources to help you navigate the challenges of college life and achieve your academic and personal goals.
 
+Looking for nearby places to explore during your college years? Look no further than the diverse selection of attractions that surround your campus. From bustling downtown areas to quiet natural retreats, you'll find plenty of exciting destinations to suit your every mood. Whether you're in the mood for a lively night out or a peaceful afternoon in the park, there's something for everyone just a short walk or drive away.
+
+Some of the top destinations near your college include:
+
+Local coffee shops and cafes, perfect for studying or catching up with friends over a latte or cappuccino.
+Museums and art galleries, where you can explore the latest exhibits and gain new insights into the world of art and culture.
+Parks and hiking trails, offering a chance to enjoy the great outdoors and get some exercise while soaking up the local scenery.
+Restaurants and bars, serving up delicious food and drinks for every taste and budget.
+Shopping centers and boutiques, providing an array of options for those looking to upgrade their wardrobe or find unique gifts for loved ones.
+No matter what your interests or passions may be, there's a wealth of nearby places to discover and explore. So why wait? Start planning your next adventure today and discover all that your college town has to offer!
+
 # Accommodation:
 
 "A good place to stay is not just a roof over your head, it's a home away from home."
