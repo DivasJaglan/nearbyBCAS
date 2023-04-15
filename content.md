@@ -1,4 +1,6 @@
 # intro:
+Discover the best places to enjoy the college life.
+
 Welcome to our area guidance website for college students! Our goal is to provide you with valuable information and resources to help you navigate the challenges of college life and achieve your academic and personal goals.
 
 Looking for nearby places to explore during your college years? Look no further than the diverse selection of attractions that surround your campus. From bustling downtown areas to quiet natural retreats, you'll find plenty of exciting destinations to suit your every mood. Whether you're in the mood for a lively night out or a peaceful afternoon in the park, there's something for everyone just a short walk or drive away.
@@ -57,3 +59,16 @@ Taking a break from studying and enjoying the outdoors is a great way to de-stre
 College life is incomplete without trying out new cuisines and discovering new flavors. Our guide includes a list of the best food and beverage options near our college, with a wide range of cuisines to suit every palate.
 
 We hope our guide helps you make the most out of your college experience and explore all the wonderful things our college and its surroundings have to offer.
+
+
+
+<section class="featured">
+            <div class="feature-box">
+                <div class="feature-textbox">
+                    <p class="feature-text">Places covered around</p>
+                </div>
+                <div class="feature-logobox">
+                    <img class="feature-logo" src="images/logos/BCAS_logo.png" alt="bcas college logo">
+                </div>
+            </div>
+        </section>
