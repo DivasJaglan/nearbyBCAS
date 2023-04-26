@@ -6,6 +6,8 @@
     #fdf9ed;
     #226e32;
 
+    colors: #16451f
+    tints: #80b98b,   #5FA76D,   #569662
 */
 
 
@@ -40,7 +42,7 @@ body{
     grid-template-columns: repeat(4, 1fr);
 }
 .container{
-    max-width: 110rem;
+    max-width: 100rem;
     margin: 0 auto;
 }
 .heading-primary{
@@ -140,7 +142,7 @@ body{
     background-color: #80b98b;
 }
 .section-textbox{
-    max-width: 130rem;
+    max-width: 110rem;
     margin: 0 auto;
     margin-bottom: 6.4rem;
 }
@@ -216,10 +218,10 @@ body{
 }
 
 /* ************************/
-/* ACCOMMODATION-SECTION */
+/* SECTION LOCATIONS*/
 /* **********************/
 
-.section-accommodation{
+.location{
     margin: 9.6rem 0;
 }
 .section-heading{
@@ -228,14 +230,15 @@ body{
     text-align: center;
 }
 .heading-place{
-    max-width: fit-content;
     font-size: 3.2rem;
     color: #000;
     text-transform: uppercase;
+    text-align: center;
+    padding: 1.4rem 0;
 }
-.accommodations-box{
+.locations-box{
     padding: 1.2rem 3.6rem;
-    background-color: #eee;
+    background-color: #eeeeee79;
     height: 42rem;
     border-radius: 10px;
     box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.09);
@@ -243,31 +246,81 @@ body{
     gap: 4.2rem;
 
 }
-.accommodation-box{
+.location-box{
     background-color: #569662;
+    /* background-color: #80b98b; */
     height: 40rem;
     max-width: 28rem;
     border-radius: 10px;
     overflow: hidden;
 }
-.accommo-img-box{
+.location-img-box{
     height: 18rem;
     overflow: hidden;
     margin-bottom: 1.2rem;
 }
-.accommodation-box img{
+.location-img-box img{
     width: 100%;
 }
-.accommo-textbox{
+.location-textbox{
     /* color: #16451f; */
     color: #fff;
     padding: 1.8rem 2.4rem;
+    position:relative;
 }
-.accommodation-list{
+.location-list{
     list-style: none;
     padding-left: 1.2rem;
     font-size: 1.4rem;
     display: flex;
     flex-direction: column;
     gap: 1rem;
+}
+.location-btn:link, .location-btn:visited{
+    font-family: inherit;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding: 1rem 1.4rem;
+    background-color: #000;
+    box-shadow: 2px 2px 8px 0 rgba(0, 0, 0, 0.2);
+    color: #fff;
+    border-radius: 10px;
+    position: absolute;
+    right:  1.6rem;
+    bottom: -20px;
+}
+.location-btn:hover, .location-btn:active{
+    box-shadow: 0 0 0 6px rgba(133, 126, 126, 0.2);
+}
+
+/* ************************/
+/* SECTION feedback*/
+/* **********************/
+
+.feed-headbox{
+    padding: 1.2rem 3.2rem;
+}
+.feed-headbox span{
+    color: #5FA76D;
+}
+.feedback-inputbox{
+    margin: 0 auto;
+    max-width: 64rem;
+    margin-bottom: 8rem;
+}
+.feed-text{
+    font-family: inherit;
+    width: 64rem;
+    height: 28rem;
+    padding: 0.8rem;
+    display: block;
+    text-align: justify;
+    border-radius: 5px ;
+    transition: 0.4s all;
+    border: 2px solid #5FA76D;
+}
+.feed-text:focus-visible{
+    outline: none !important;
+    border: #5FA76D;
+    box-shadow: 0 0 2px 8px rgba(158, 226, 172, 0.521);
 }
